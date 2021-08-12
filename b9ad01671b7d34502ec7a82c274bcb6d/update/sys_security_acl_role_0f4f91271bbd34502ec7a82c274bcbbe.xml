@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 03:16:53</sys_created_on>
+        <sys_id>0f4f91271bbd34502ec7a82c274bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_appe_summary_rep_summary_indicator.x_appe_summary_rep.summary_indicator_user</sys_name>
+        <sys_package display_value="Summary Report" source="x_appe_summary_rep">b9ad01671b7d34502ec7a82c274bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Summary Report">b9ad01671b7d34502ec7a82c274bcb6d</sys_scope>
+        <sys_security_acl display_value="x_appe_summary_rep_summary_indicator">4f4f91271bbd34502ec7a82c274bcbbb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0f4f91271bbd34502ec7a82c274bcbbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 03:16:53</sys_updated_on>
+        <sys_user_role display_value="x_appe_summary_rep.summary_indicator_user" name="x_appe_summary_rep.summary_indicator_user">324f91271bbd34502ec7a82c274bcb71</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

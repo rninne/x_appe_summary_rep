@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Summary Indicator" max_length="40" name="x_appe_summary_rep_summary_indicator" type="collection">
+        <element label="Indicator" mandatory="true" max_length="32" name="indicator" reference="pa_indicators" type="reference"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Summary Report" mandatory="true" max_length="32" name="summary_report" reference="x_appe_summary_rep_summary_report" type="reference"/>
+        <index name="index">
+            <element name="indicator"/>
+        </index>
+        <index name="index2">
+            <element name="summary_report"/>
+        </index>
+    </element>
+</database>
