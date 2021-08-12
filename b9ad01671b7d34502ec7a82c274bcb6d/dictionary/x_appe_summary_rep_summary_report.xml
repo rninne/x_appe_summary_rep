@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Summary Report" max_length="40" name="x_appe_summary_rep_summary_report" type="collection"/>
+</database>
